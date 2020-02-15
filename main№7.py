@@ -1,7 +1,7 @@
 import os
 import pygame
 import requests
-
+# «Сброс поискового результата» => F12
 cords = ['49.141066', '55.789981']
 main_cords = ['49.141066', '55.789981']
 spn = ['0.05', '0.05']
