@@ -345,6 +345,7 @@ while running:
 
                     get_search_organization()
                     map_api_request()
+                    input_ = ''
 
         if event.type == pygame.KEYDOWN:
 
